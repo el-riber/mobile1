@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyProfileApp",
+    "slug": "MyProfileApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": ["ios", "android", "web"]
+  }
+}
